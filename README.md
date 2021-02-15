@@ -68,13 +68,13 @@ After a few seconds, in the terminal 2 window appears:
 
 And in RViz >> Display >> Map >> Topic: /move_base/global_costmap/costmap - now works without problems (except for the map rotated by -90 degrees):
 
-![Captura de tela de 2021-02-15 10-50-17](figuras/Captura de tela de 2021-02-15 10-50-17.png)
+![Captura de tela de 2021-02-15 10-50-17](./figuras/Captura de tela de 2021-02-15 10-50-17.png)
 
 More results
 
 a) Notice the RViz --> if: Map >> topic chaged to: /map it turns to:
 
-![Captura de tela de 2021-02-15 10-53-11](figuras/Captura de tela de 2021-02-15 10-53-11.png)
+![Captura de tela de 2021-02-15 10-53-11](./figuras/Captura de tela de 2021-02-15 10-53-11.png)
 
 Note `map.yaml` file:
 
@@ -332,7 +332,7 @@ It is noticed that the connection between frama / map and / odom is ok. Was the 
 
 Resulting file: `frames.pdf`:
 
-![Captura de tela de 2021-02-15 03-23-04](figuras/Captura de tela de 2021-02-15 03-23-04.png)
+![Captura de tela de 2021-02-15 03-23-04](./figuras/Captura de tela de 2021-02-15 03-23-04.png)
 
 More tests:
 
